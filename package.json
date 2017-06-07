@@ -1,0 +1,23 @@
+{
+  "name": "reactpractice",
+  "version": "1.0.0",
+  "description": "Practice for React Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godwinxunwang/ReactTutorialPractice.git"
+  },
+  "keywords": [
+    "react;",
+    "javascript"
+  ],
+  "author": "Godwin Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godwinxunwang/ReactTutorialPractice/issues"
+  },
+  "homepage": "https://github.com/godwinxunwang/ReactTutorialPractice#readme"
+}
